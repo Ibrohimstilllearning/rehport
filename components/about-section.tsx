@@ -63,14 +63,17 @@ export function AboutSection() {
             }`}
           >
             <p className="mb-6 text-base leading-relaxed text-muted-foreground sm:text-lg">
-              {`I'm a network engineer passionate about designing secure, reliable, and high-performance network infrastructures that scale with business needs. With 2+ years of experience, I specialize in routing & switching, network security, and modern cloud and hybrid network architectures.
+              {`My name is Muhamad Rehan Firmansyah, a passionate networking student with a strong interest in computer networks and cybersecurity. I have hands-on experience in routing, switching, and network security using Cisco and MikroTik devices.
 `}
             </p>
             <p className="mb-6 text-base leading-relaxed text-muted-foreground sm:text-lg">
-              {"Currently, I'm focused on building resilient network systems, optimizing performance, and ensuring seamless connectivity across on-premise and cloud environments. I believe great network solutions are born at the intersection of solid design, strong security, and operational excellence."}
+              {"I hold professional certifications including MTCNA (MikroTik Certified Network Associate), MTCRE (MikroTik Certified Routing Engineer), and CCNA (Cisco Certified Network Associate), which strengthen my foundation in networking fundamentals, routing, and enterprise-level network concepts."}
             </p>
             <p className="text-base leading-relaxed text-muted-foreground sm:text-lg">
-              {"When I'm not configuring networks, you'll find me exploring new networking technologies, improving automation workflows, studying emerging cloud networking trends, or sharing knowledge about network engineering."}
+              {"I have experience configuring network services such as NAT, HSRP, IPv4/IPv6, GRE Tunnel, and dynamic routing protocols like EIGRP and OSPF. I enjoy designing stable, secure, and scalable network infrastructures while continuously improving my troubleshooting skills."}
+            </p>
+            <p className="text-base leading-relaxed text-muted-foreground sm:text-lg">
+              {"I am highly motivated to grow in the IT field, especially in network engineering and cybersecurity. I believe that consistency, discipline, and learning from failure are the keys to long-term success. My goal is to become a professional Network Engineer or Cybersecurity Engineer who can contribute to building secure and reliable digital infrastructure."}
             </p>
           </div>
 

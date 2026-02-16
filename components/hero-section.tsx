@@ -70,7 +70,7 @@ export function HeroSection() {
         </div>
 
         <p className="mx-auto mb-10 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-I design, implement, and maintain secure, scalable, and high-performance network infrastructures. Specializing in routing, switching, network security, and modern cloud networking with a strong focus on reliability, efficiency, and seamless connectivity.
+        This is My Portfolio.
         </p>
 
         <div className="mb-12 flex flex-wrap items-center justify-center gap-4">
